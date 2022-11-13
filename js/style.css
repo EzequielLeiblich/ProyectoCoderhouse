@@ -348,9 +348,10 @@ body {
 
 @media screen and (max-width:768px){
     
+    /* HEADER */
     
     .infinity {
-        font-size:  15px;
+        font-size:  35px;
     }
 
     .bar-btn {
@@ -402,19 +403,30 @@ body {
         display: block;
     }
 
-/* 
-    header {
-        
-    }
+
+    /* SERVICIOS */
+
     .servicios {
         
     }
+    
+    /* MARKETING */
+
     .marketing {
         
     }
-    .footer {
-        
-    } */
+
+
+    /* FOOTER */
+
+    .copyright{
+        font-size: x-small;
+    }
+
+
+    .foot-menu{
+        display: none;
+    }
 }
 
 /* MEDIA QUERIE TABLET */

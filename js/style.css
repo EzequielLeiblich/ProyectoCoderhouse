@@ -54,10 +54,11 @@ body {
     text-decoration: none;
 }
 
-.logo {
+.logo1 {
     width: 80px;
     height: 80px;
     margin-left: 20px;
+    margin-top: -40px;
 }
 
 .infinity {

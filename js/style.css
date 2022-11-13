@@ -355,6 +355,10 @@ body {
         font-size:  35px;
     }
 
+    .logo1 {
+        margin-top: 0px;
+    }
+    
     .bar-btn {
         display: block;
         font-size: 25px;

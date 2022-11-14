@@ -310,7 +310,7 @@ body {
 
             .mensajes {
             display: inline;
-            font-size: 50px;
+            font-size: 30px;
             text-align: center;
             }
 
@@ -510,7 +510,7 @@ body {
         "pic2"
         "txt2";
     }
-    
+
     .marketing {
         display: grid;
         font-size: 25px;
